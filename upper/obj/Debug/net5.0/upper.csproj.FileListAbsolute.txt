@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\upper\upper\bin\Debug\net5.0\upper.exe
+C:\Users\user\Desktop\upper\upper\bin\Debug\net5.0\upper.deps.json
+C:\Users\user\Desktop\upper\upper\bin\Debug\net5.0\upper.runtimeconfig.json
+C:\Users\user\Desktop\upper\upper\bin\Debug\net5.0\upper.runtimeconfig.dev.json
+C:\Users\user\Desktop\upper\upper\bin\Debug\net5.0\upper.dll
+C:\Users\user\Desktop\upper\upper\bin\Debug\net5.0\upper.pdb
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.AssemblyInfo.cs
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.dll
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\refint\upper.dll
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.pdb
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\upper.genruntimeconfig.cache
+C:\Users\user\Desktop\upper\upper\obj\Debug\net5.0\ref\upper.dll
